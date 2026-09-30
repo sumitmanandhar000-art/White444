@@ -1,3 +1,4 @@
+
 {
   "name": "AFK Bot",
   "bot-account": {
@@ -6,9 +7,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "ip": "Detention-SMP.aternos.me",
+    "port": 63202,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
